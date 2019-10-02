@@ -1,0 +1,14 @@
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\bin\Debug\Easy_Game.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\bin\Debug\Easy_Game.exe
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\bin\Debug\Easy_Game.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\Easy_Game.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\MainWindow.g.cs
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\App.g.cs
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\Easy_Game_MarkupCompile.cache
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\Easy_Game_MarkupCompile.lref
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\MainWindow.baml
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\Easy_Game.g.resources
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\Easy_Game.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\Easy_Game.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\Easy_Game.exe
+c:\users\hp\documents\visual studio 2017\Projects\Easy_Game\Easy_Game\obj\Debug\Easy_Game.pdb
